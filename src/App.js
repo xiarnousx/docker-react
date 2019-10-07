@@ -16,7 +16,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Learn Angular
+                    Learn Angular on the feature branch
                 </a>
             </header>
         </div>
